@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="about me page">
+    <meta name="author" content="Jason Sodenkamp">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workshop 1: Profile 1</title>
+</head>
+
+<body>
+    <nav>
+        <a href="#about">About Me</a> | <a href="#interests">Interests</a> | <a href="#music">Music</a> | <a
+            href="profile2.html">Published Work</a>
+    </nav>
+    <h1>Profile - Jason Sodenkamp</h1>
+    <section>
+        <img src="images/jason.jpeg" alt="Picture of Jason and his dog Ranger" width="360" height="500"><br>
+        <audio id="music" src="audio/ASHWYN_-_Feelings_of_Yesterday.mp3" controls>Your browser does not support HTML5
+            audio. Here is <a href="http://jamen.do/t/1949321"> link to the audio</a>instead.</audio>
+        <h2 id="about">About me</h2>
+        <ul>
+            <li>
+                I've served <strong>22</strong> years in the <a href="https://www.army.mil/" target="_blank">U.S.
+                    Army</a>
+            </li>
+            <li>
+                My ideal dream job - <em>Full Stack Developer</em>
+            </li>
+            <li>
+                Currently live in Mesa, Arizona
+            </li>
+        </ul>
+    </section>
+    <section>
+        <h2 id="interests">
+            Interests
+        </h2>
+        <ol>
+            <li>
+                Writing
+            </li>
+            <li>
+                Music
+            </li>
+            <li>
+                Travel
+            </li>
+        </ol>
+    </section>
+
+    <footer>
+        <address>
+            Contact: <a href="mailto:jcsodenkamp@gmail.com">Email</a>
+        </address>
+    </footer>
+</body>
+
+</html>
