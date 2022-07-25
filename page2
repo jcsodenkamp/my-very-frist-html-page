@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="about me page">
+    <meta name="author" content="Jason Sodenkamp">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workshop 1: Profile 2</title>
+</head>
+
+<body>
+    <a href="profile.html">Link to Main Profile</a>
+    <section>
+        <h2>
+            Published Book
+        </h2>
+        <a href="https://www.amazon.com/dp/B09NZNRPBN" target="_blank"><img src="images/book.jpeg"
+                alt="Picture of his published book" width="375" height="500"></a>
+        <p><a href="https://www.amazon.com/dp/B09NZNRPBN" target="_blank">Get this Book</a></p>
+    </section>
+</body>
+
+</html>
